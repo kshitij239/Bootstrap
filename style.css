@@ -69,6 +69,11 @@ body {
 .about {
   font-family: 'Sofia';
   font-weight: bold;
+  background-image: url('img/back1234.png');
+  height: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .lead {
@@ -80,6 +85,22 @@ body {
   padding-top: 50px;
 }
 
+.back {
+  background-image: url('img/pexels-rahul-716398.png');
+  height: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 3;
+}
+
+.col-md-6 {
+  z-index: 1;
+}
+
+.display-4 {
+  color: beige;
+}
 /*
 Extra small (xs) devices (portrait phones, less than 576px)
 No media query since this is the default in Bootstrap
