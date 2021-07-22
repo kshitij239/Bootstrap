@@ -101,6 +101,19 @@ body {
 .display-4 {
   color: beige;
 }
+
+.back-skills {
+  background-image: url('img/pexels-little-visuals-1954.png');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 3;
+  color: beige;
+
+  padding: 50px;
+}
+
 /*
 Extra small (xs) devices (portrait phones, less than 576px)
 No media query since this is the default in Bootstrap
