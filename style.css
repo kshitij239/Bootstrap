@@ -64,6 +64,31 @@ body {
   .contact-clean form {
     padding: 30px;
   }
+  .back-skills {
+    background-image: url('img/pexels-little-visuals-1954.png');
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    color: beige;
+
+    padding: 50px;
+  }
+}
+
+@media (min-width: 767px) {
+  .back-skills {
+    background-image: url('img/pexels-little-visuals-1954.png');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    color: beige;
+
+    padding: 50px;
+  }
 }
 
 .about {
@@ -100,18 +125,6 @@ body {
 
 .display-4 {
   color: beige;
-}
-
-.back-skills {
-  background-image: url('img/pexels-little-visuals-1954.png');
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  z-index: 3;
-  color: beige;
-
-  padding: 50px;
 }
 
 /*
