@@ -94,7 +94,7 @@ body {
     padding: 50px;
   }
   .image {
-    background-image: url('img/pexels-daniel-putzer-633409\ \(1\).png');
+    background-image: url('img/pexels-little-visuals-1954.png');
     height: fit-content;
     background-position: center;
     background-repeat: no-repeat;
@@ -107,7 +107,7 @@ body {
 .about {
   font-family: 'Franklin Gothic Medium';
   font-weight: bold;
-  background-image: url('img/back1234.png');
+  background-image: url('img/pexels-little-visuals-1954.png');
   height: auto;
   background-position: center;
   background-repeat: no-repeat;
@@ -124,7 +124,7 @@ body {
 }
 
 .back {
-  background-image: url('img/pexels-rahul-716398.png');
+  background-image: url('img/pexels-little-visuals-1954.png');
   height: auto;
   background-position: center;
   background-repeat: no-repeat;
